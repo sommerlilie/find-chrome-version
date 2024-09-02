@@ -7,7 +7,7 @@ const chromeFlags = [
   "--headless",
 ]
 
-const regExp = /HeadlessChrome\/(.*)/
+const regExp = /Chrome\/(.*)/
 
 const REQUEST_TIMEOUT = 10000
 
